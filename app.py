@@ -76,10 +76,10 @@ elif st.session_state.workflow == "initial_client_meeting":
     
     col1, col2 = st.columns(2)
     with col1:
-        transcribe_audio = st.button("Transcribe Audio (n/a)")
-    with col2:
         if st.button("Evaluate Transcription"):
             st.session_state.evaluate_transcription_active = True
+    with col2:
+        transcribe_audio = st.button("Transcribe Audio (n/a)")
 
     if transcribe_audio:
         st.write("n/a - Transcription functionality not implemented yet.")
