@@ -50,7 +50,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # UI setup
-st.title("Workflow Tool")
+st.title("Evaluation Tool")
 
 # Workflow selection buttons
 st.subheader("Choose a Workflow")
