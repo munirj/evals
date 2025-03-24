@@ -116,7 +116,7 @@ elif st.session_state.workflow == "initial_client_meeting":
                     st.write("Choose an evaluation model:")
                     col1, col2 = st.columns(2)
                     with col1:
-                        eval_gpt4o_mini = st.button("Evaluate with GPT-4o Mini (cheapest)")
+                        eval_gpt4o_mini = st.button("Evaluate with GPT-4o Mini")
                     with col2:
                         eval_gpt35_turbo = st.button("Evaluate with GPT-3.5-turbo")
 
@@ -210,7 +210,7 @@ elif st.session_state.workflow == "ifa_query" and st.session_state.ifa_query_act
         st.write("Choose an evaluation model:")
         col1, col2 = st.columns(2)
         with col1:
-            eval_gpt4o_mini = st.button("Evaluate with GPT-4o Mini (cheapest)")
+            eval_gpt4o_mini = st.button("Evaluate with GPT-4o Mini")
         with col2:
             eval_gpt35_turbo = st.button("Evaluate with GPT-3.5-turbo")
 
