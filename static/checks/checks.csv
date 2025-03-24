@@ -1,0 +1,20 @@
+﻿Type,Which,David Harrison,Alice Turner,Ben Patel,Clara Hughes,Ben Patel Missing Info,Clara Hughes No Disclosures
+Disclosure,IFA status,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Disclosure,Services provided,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Disclosure,Fees,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Disclosure,Complaints process,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Information,Age,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Marital status,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Children,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,AML ID check,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Goals,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Investing experience,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Income,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Information,Assets,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Liabilities,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Expenses,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Health,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Information,Insurance,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Information,Risk tolerance,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Tax,Inheritance plans,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Tax,ISA utilisation,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE

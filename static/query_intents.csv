@@ -1,0 +1,5 @@
+﻿Query,Intent
+What is David Harrison's age?,Lookup client data
+How can David Harrison plan for retirement?,"Lookup client data, retirement planning"
+How can Clara Hughes plan for unexpected redundancy?,"Lookup client data, unemployment planning"
+How can Ben Patel optimise his finances for inheritance?,"Lookup client data, inheritance planning"
